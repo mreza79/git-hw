@@ -16,7 +16,7 @@ Python3 simple_linear_regression.py
 ## Packages
 matplotlib
 numpy
-sckit
+sklearn
 panda
 
 
