@@ -7,11 +7,18 @@ This project is a simple linear regression model with visualization. Also, Datas
 
 ## Prerequisites
 Basic Python knowledge.
-Basic Python packages knowldeges including numpy, panda, matplotlib.
+Basic Python packages knowldege including numpy, panda, matplotlib.
 Basic Git knowledge, including an installed version of Git.
 
 ## Run
 Python3 simple_linear_regression.py
+
+## Packages
+matplotlib
+numpy
+sckit
+panda
+
 
 ## Contributing
 Pull requests are welcome.
